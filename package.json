@@ -8,10 +8,10 @@
   "scripts": {
     "start": "node server.js"
   },
-  "name": "test",
+  "name": "final",
   "version": "1.0.0",
   "main": "server.js",
-  "author": "samarth",
+  "author": "Kush",
   "license": "ISC",
   "description": ""
 }
